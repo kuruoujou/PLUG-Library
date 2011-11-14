@@ -1,0 +1,3 @@
+This is the system for the PLUG library. It's fairly basic right now - it only does basic record keeping of who has a book out. It doesn't keep track of time or anything like that. I'm too lazy to download it right now, but this is released under a GPL v3 license. Technically I'm supposed to include the actual license text, but I'm lazy. I'll get around to it eventually.
+
+Anyway, please feel free to use this code and tell me about issues or enhancements on the issue tracker. I've not really been keeping up with it at all, so...yeah.

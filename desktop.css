@@ -1,0 +1,33 @@
+body {
+	background: #1e1f21 url(/wp-content/themes/defusion/img/bg-body.gif) no-repeat left top;
+	color: #6e7073;
+	font: 11px/18px "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+}
+h2 {
+	font-size: 24px;
+	text-align: center;
+	color: #ffffff;
+}
+
+h3 {
+	font-size: 12pt;
+	text-align:center;
+	color: #ffffff;
+}
+.cont{
+	font-size: 12pt;
+	margin:0 auto;
+	background-color: #fff;
+	color: #6e7073;
+	width: 920px;
+	padding: 10px;
+}
+img {
+	float: left;
+	margin-right: 10px;
+}
+.red {
+	font-size: 20pt;
+	color: #841F27;
+	font-weight: bold;
+}
